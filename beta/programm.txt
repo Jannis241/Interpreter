@@ -1,0 +1,18 @@
+fufu gleich "cool"
+fufu gleich "fett" # fortnite
+schreibe: 5 + 5
+
+a gleich 2
+ 
+schreibe: 5 plus 5
+schreibe: 4
+a plus gleich 5
+a plus gleich 5
+a minus gleich 7
+a mal gleich 5
+schreibe: a
+
+schreibe: "test"
+#schreibe: a
+
+
