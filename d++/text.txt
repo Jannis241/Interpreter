@@ -1,0 +1,34 @@
+
+
+hallo = -2 + 1 # hier ist ein kommentar
+5*5
+7/3
+2^3
+schreibe: "hallo"
+
+a = "fufu"
+
+b = a
+
+c = ("moinsen")
+
+dede = 4
+
+fornite = "5"
+
+forniteCool = ja
+
+falls forniteCool{
+
+}
+sonst{
+
+
+}
+
+minusZahl = -3
+
+-4 - --5  + 5
+
+
+mathe = -3 * 5 + 7 / 3 ^ 4 - -3 - 3 - + 5

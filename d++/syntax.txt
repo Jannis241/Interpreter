@@ -1,0 +1,37 @@
+# comment funktion
+# richtig deutsch:
+
+
+
+tiere = liste: fufu, dede, sleepy
+
+für tier in tiere{
+    schreibe: tier
+}
+
+für a in reichweite b{
+    sage: "hallo welt"
+}
+
+gameover = nein
+
+während nicht gameover{
+    schreibe: "das spiel läuft noch"
+}
+
+a = 3
+falls a = 3{
+    schreibe: "a ist gleich 3"
+}
+
+funktion Name (){
+    a = 3
+    b = 5
+    gebe a + b zurück
+}
+
+a = 3
+
+a *= 3
+
+schreibe: a
